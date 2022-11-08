@@ -8,7 +8,7 @@
     Through this book store the users can search for a book by its title and
     later can add to the shopping cart and finally purchase using credit card transaction.
     
- ##   [Live App Demo](https://akshatbookstore.netlify.app/)
+ ##   [Live App Demo](https://.netlify.app/)
  
  
  ![Alt text](https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page")
@@ -48,22 +48,22 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> Thirumani Keerthi </code>
 </h3>
   <p align="center"> 
 
-  <a href="https://github.com/Akshatjalan">
+  <a href="https://github.com/ThirumaniKeerthi/">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.linkedin.com/in/akshat-jalan/">
+  <a href="https://www.linkedin.com/in/keerthi-thirumani-107422249/">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.instagram.com/akshatxjalan/">
+  <a href="https://www.instagram.com/keerthi.kirrak">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
   </a>
-    <a href="mailto:jalanakshat2@gmail.com">
+    <a href="mailto:thirumanikeerthi2004@gmail.com">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
   </a>
 
