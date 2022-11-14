@@ -48,7 +48,7 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Thirumani Keerthi </code>
+  <code> AIML 20-2024 Batch </code>
 </h3>
   <p align="center"> 
 
